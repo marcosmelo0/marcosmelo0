@@ -1,6 +1,10 @@
 ### Olá, bem-vindo(a)! 👋🖔
 
-<br/>
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosmelo0&show_icons=true&theme=radical)
+
+---
 
 
 Tecnologias do meu dia a dia:
@@ -17,8 +21,8 @@ Tecnologias do meu dia a dia:
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white" />
   <img align="center" alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white" />
-  
-
 </div><br/>
 
+  ---
+  
 Apaixonado por tecnologia e seus desafios, aprender é viver!
