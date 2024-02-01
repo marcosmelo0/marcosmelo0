@@ -4,6 +4,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosmelo0&show_icons=true&theme=radical)
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ---
 
 
