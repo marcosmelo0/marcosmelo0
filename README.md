@@ -1,7 +1,10 @@
 ### Olá, me chamo Marcos Melo. Seja Bem vindo(a)! 👋🖔
 
-- Vivência com desenvolvimento back-end com as tecnologias: Django, NodeJS, Express, PostgreSQL e TypeScript;
-- Vivência com desenvolvimento front-end com as tecnologias: TypeScript, ReactJS, Nextjs, Bootstrap, JavaScript6 e TailwindCSS.
+- 📌 Back-End: Domínio no desenvolvimento de aplicações robustas e seguras com Node.js, Express, Nest.js, Django Rest Framework, JavaScript e TypeScript. Foco em criar sistemas escaláveis, confiáveis e alinhados às melhores práticas do mercado.
+
+- 📌 DevOps e Banco de Dados: Conhecimento sólido em CI/CD, gerenciamento de bancos de dados como PostgreSQL e MongoDB, versionamento de código com GIT e utilização de Docker para criação de ambientes isolados e eficientes. 
+
+- 📌 Metodologias Ágeis: Experiência com Scrum e ferramentas como Trello para organização e entrega ágil de projetos, sempre comprometido com resultados e entrega de valor ao cliente.
 
 ---
 
